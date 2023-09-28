@@ -16,7 +16,7 @@ Store the Cart in the `localStorage`
 - Use `scss` files per component
 - Use component names as BEM block names with all the other BEM rules applied
 
-### App
+### ~App~
 1. Add `<header>` with links to all the pages
     - The `Logo` and the `Nav` are aligned left
     - The `Favorites` and the `Cart` are aligned right
