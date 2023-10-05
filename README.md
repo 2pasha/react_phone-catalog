@@ -26,7 +26,7 @@ Store the Cart in the `localStorage`
     - Add the link to the Github repo
     - (*) Implement `Back to top` button
 
-### Home page
+~### Home page~
 1. Create `HomePage` available at `/` with just a title `Home page`
 1. Fetch products from API
     - Each product has a `type`: `phone`, `tablet` or `accessory`
