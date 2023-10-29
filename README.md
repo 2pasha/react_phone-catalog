@@ -48,7 +48,7 @@ to links container.
     - User can change pictures with buttons infinitely
     - (*) Swipe pictures every 5 seconds
 
-### Phones page
+### ~Phones page~
 1. Create `PhonesPage` available at `/phones` with a `<h1>` title `Mobile phones`
     - Create `getPhones` API call fetching the products with the `type`: `phone`
 1. Add `ProductsList` with `data-cy="productList"` attribute showing all the `phones`
