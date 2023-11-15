@@ -84,7 +84,7 @@ to links container.
 1. Add `Breadcrumbs` at the top with `data-cy="breadCrumbs"` attribute in elements container
     - The last part is a plain text all the other ones are links
 
-### Cart
+### ~Cart~
 1. Implement `CartPage` storing an array of `CartItems`
     - Each item should have `id`, `quantity` and a `product`
 1. `Add to cart` button in `ProductCart` should add a product to the `Cart`
