@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d3621df0.chunk.css",
+    "main.js": "./static/js/main.a8a38bc9.chunk.js",
+    "main.js.map": "./static/js/main.a8a38bc9.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.330dba63.js",
+    "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
+    "static/js/2.b4c350c2.chunk.js": "./static/js/2.b4c350c2.chunk.js",
+    "static/js/2.b4c350c2.chunk.js.map": "./static/js/2.b4c350c2.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.d3621df0.chunk.css.map": "./static/css/main.d3621df0.chunk.css.map",
+    "static/js/2.b4c350c2.chunk.js.LICENSE.txt": "./static/js/2.b4c350c2.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "./static/media/Mont-SemiBold.0b5e68eb.ttf",
+    "static/media/BackButton.scss": "./static/media/arrow-right.70f42d77.svg",
+    "static/media/Search.scss": "./static/media/search.eb670dd9.svg",
+    "static/media/Button.scss": "./static/media/plus.dea15724.svg",
+    "static/media/Filters.scss": "./static/media/gray-arrow-down.0775c6b7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.330dba63.js",
+    "static/js/2.b4c350c2.chunk.js",
+    "static/css/main.d3621df0.chunk.css",
+    "static/js/main.a8a38bc9.chunk.js"
+  ]
+}
