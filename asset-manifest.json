@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.186134df.chunk.css",
-    "main.js": "./static/js/main.a3db8075.chunk.js",
-    "main.js.map": "./static/js/main.a3db8075.chunk.js.map",
+    "main.css": "./static/css/main.6786413c.chunk.css",
+    "main.js": "./static/js/main.ba22bf42.chunk.js",
+    "main.js.map": "./static/js/main.ba22bf42.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
     "static/js/2.b4c350c2.chunk.js": "./static/js/2.b4c350c2.chunk.js",
     "static/js/2.b4c350c2.chunk.js.map": "./static/js/2.b4c350c2.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.186134df.chunk.css.map": "./static/css/main.186134df.chunk.css.map",
+    "static/css/main.6786413c.chunk.css.map": "./static/css/main.6786413c.chunk.css.map",
     "static/js/2.b4c350c2.chunk.js.LICENSE.txt": "./static/js/2.b4c350c2.chunk.js.LICENSE.txt",
     "static/media/App.scss": "./static/media/Mont-SemiBold.0b5e68eb.ttf",
     "static/media/BackButton.scss": "./static/media/arrow-right.70f42d77.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
     "static/js/2.b4c350c2.chunk.js",
-    "static/css/main.186134df.chunk.css",
-    "static/js/main.a3db8075.chunk.js"
+    "static/css/main.6786413c.chunk.css",
+    "static/js/main.ba22bf42.chunk.js"
   ]
 }
